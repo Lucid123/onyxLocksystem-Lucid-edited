@@ -22,3 +22,7 @@ I plan to update this over time adding more features to the script, such as lock
 
 ## Support Discord
 https://discord.gg/AfYDUGW
+
+
+###
+Standart onyxLocksystem'den farkı bir sunucu için yaptığım /aracanahtar yazarak anahtarlarına sahip olduğunuz araçların anahtarlarını bir başkasına verebilirsiniz. Bir diğer farkı normal araçları skillbar ile düzkontak yaparak çalıştırma yada maymuncuk ile uğraşmadan çalıştırma, super ve bir kaç farklı kategorideki araçları açmak içinse gelişmiş lockpick istiyor. Ayrıca araç npc aracı değilde oyuncu aracıysa ve aracın motoru açık olursa herhangi bir maymuncuk yada düz kontak istemiyor geri kalan özellikleri standart fivem forumda paylaşılan ile aynı
